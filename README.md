@@ -1,4 +1,4 @@
-# Causal Inference in Social Psychology
+# Causal machine learning with simulated NZAVS data
 This project applies causal inference methods, particularly Generalized Random Forests (GRF), to research social psychology data.
 
 ## Overview
