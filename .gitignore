@@ -47,3 +47,22 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# R session files
+.RData
+.Rhistory
+.Ruserdata
+.Rproj.user/
+
+# Generated analysis objects
+**/derived/
+*.qs
+*.rds
+
+# Data
+**/data/*.qs
+**/data/*.csv
+
+# OS / editor
+.DS_Store
+Thumbs.db
